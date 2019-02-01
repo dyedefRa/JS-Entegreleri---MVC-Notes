@@ -1,0 +1,46 @@
+﻿OLAYI SAYFADA SCROLL U INDIRDIKCE ALTA VERILERIN BASILMASI;
+
+1-Index.cshtml
+2- CustumerWidget
+3-
+$(window).scrollTop()  => Bir nesnenin yukarıdan olan uzaklığını söyler
+$(document).height() => Dokümanın toplam heighti px olarak verir
+$(window).height()  =>  Gördüğün ekranın height
+bunların olduğu if penceresi scrollun en altındayken true degerı dondurur
+@section scripts{
+    <script>
+
+        $(function () {
+            var pageNo = 1;
+            var IsPagedLoad = true;
+            $(window).scroll(function () {
+
+                if ($(window).scrollTop() == $(document).height() - $(window).height()) {
+                    if (IsPagedLoad) {
+
+                        $.ajax({
+                            type: 'GET',
+                            url: '/Home/Index',
+                            data: { page: pageNo },
+                            success: function (value) {
+
+                                pageNo++;
+                                $("#ajaxlaatak").append(value);
+                                if ($.trim(value) == '') {
+                                    IsPagedLoad = false;
+                                }
+                              
+                            }
+
+
+                        });
+
+                    }
+                }
+                    
+                });
+
+            });
+    </script>
+
+}

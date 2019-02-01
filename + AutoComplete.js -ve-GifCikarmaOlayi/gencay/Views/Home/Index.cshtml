@@ -1,0 +1,107 @@
+﻿@model IEnumerable<gencay.Models.Products>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div id="wait" style="display:none;margin-top:30px;">
+    <img width="400" height="120" src="~/Content/okey.gif" /><br>İşleniyor...
+</div>
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p><input type="text" class="form-control" name="name" id="autoComplete" value="" /></p>
+
+<div id="sonuc" style="color:red;font-weight:bold;"></div>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SupplierID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CategoryID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuantityPerUnit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitPrice)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Discontinued)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupplierID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantityPerUnit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Discontinued)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                @*@Html.ActionLink("Details", "Details", new { id = item.ProductID }, htmlAttributes:{ "@id=" }) |*@
+                <input class="btn btn-primary selam" type="button" data-id="@item.ProductID"  name="name" value="Sil" />
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section scripts{
+    <script>
+
+        $(function () {
+            $('.selam').click(function () {
+                var id = $(this).data('id');
+                if (confirm('Silmeye emin misin ?')) {
+                    $.ajax({
+                        type: 'POST',
+                        url: '/Home/AjaxProductSil',
+                        dataType:'json',
+                        data: { idcik: id },
+                        success: function (data) {
+                            if (data.Durum) {
+                                $("#sonuc").html(data.Mesaj);
+                            }
+                        }
+                    })
+                }
+            })
+            $(document).ajaxStart(function () {
+                $('#wait').css('display', 'block');
+            });
+            $(document).ajaxComplete(function () {
+                $('#wait').css('display', 'none');
+            });
+
+            $('#autoComplete').autocomplete('@Url.Action("AutoCompleteOlayi","Home")', { minChars: 3 });
+           
+        })
+    </script>
+    
+    }

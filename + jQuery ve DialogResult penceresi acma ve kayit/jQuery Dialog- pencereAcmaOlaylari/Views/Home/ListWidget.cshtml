@@ -1,0 +1,22 @@
+﻿@using (Ajax.BeginForm("KullaniciEkle", "Home",FormMethod.Post, new AjaxOptions {  OnSuccess= "create" }, new { id = "frm_Olustur" }))
+{
+    <input type="hidden" name="name" value="" />
+
+    <div>
+        Ad :
+        <br />
+        @Html.TextBox("Ad")
+    </div>
+    <hr />
+    <div>
+        Soyad :
+        <br />
+        @Html.TextBox("Soyad")
+    </div>
+    <hr />
+    <div>
+        <input type="submit" name="name" value="KAYDET" />
+    </div>
+
+
+}

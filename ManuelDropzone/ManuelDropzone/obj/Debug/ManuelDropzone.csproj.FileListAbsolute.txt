@@ -1,0 +1,44 @@
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\ManuelDropzone.dll.config
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\ManuelDropzone.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\ManuelDropzone.pdb
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.dll
+C:\Users\Asus\source\repos\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\ManuelDropzone.dll.config
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\ManuelDropzone.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\ManuelDropzone.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\ManuelDropzone\ManuelDropzone\obj\Debug\ManuelDropzone.pdb

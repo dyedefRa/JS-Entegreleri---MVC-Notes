@@ -1,0 +1,85 @@
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\ApplicationInsights.config
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\BaseCotroller-RolYonetimi.dll.config
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\BaseCotroller-RolYonetimi.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\BaseCotroller-RolYonetimi.pdb
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Antlr3.Runtime.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Optimization.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\WebGrease.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Optimization.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.dll
+C:\Users\Asus\source\repos\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\ApplicationInsights.config
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\BaseCotroller-RolYonetimi.dll.config
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\BaseCotroller-RolYonetimi.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\BaseCotroller-RolYonetimi.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Antlr3.Runtime.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Optimization.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\WebGrease.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Optimization.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.csproj.CopyComplete
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\BaseCotroller-RolYonetimi\BaseCotroller-RolYonetimi\obj\Debug\BaseCotroller-RolYonetimi.pdb

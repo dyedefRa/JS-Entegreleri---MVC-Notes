@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.Form1.resources
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.Properties.Resources.resources
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\bin\Debug\MailOlayi.exe.config
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\bin\Debug\MailOlayi.exe
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\bin\Debug\MailOlayi.pdb
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.exe
+C:\Users\Asus\source\repos\MailOlayi\MailOlayi\obj\Debug\MailOlayi.pdb

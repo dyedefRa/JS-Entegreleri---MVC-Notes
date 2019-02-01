@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.BusinessLayer.dll.config
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.BusinessLayer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.BusinessLayer.pdb
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.DataAccessLayer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.DataEntities.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.DataAccessLayer.pdb
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.DataAccessLayer.dll.config
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.DataEntities.pdb
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\bin\Debug\Blog.DataEntities.dll.config
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\obj\Debug\Blog.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\obj\Debug\Blog.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\obj\Debug\Blog.BusinessLayer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.BusinessLayer\obj\Debug\Blog.BusinessLayer.pdb

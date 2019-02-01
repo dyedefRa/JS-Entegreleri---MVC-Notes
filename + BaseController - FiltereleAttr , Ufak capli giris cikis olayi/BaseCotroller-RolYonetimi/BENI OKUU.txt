@@ -1,0 +1,5 @@
+﻿1-BaseController ile rol yapacaksan  , rolleme yapacağın kontroller ve durumları Basecontroller sınıfından miras adaln bir controllerda yapma n gerek
+
+
+2-FiltreleAttribute   
+Bunu onerırım Atttrıbuye olarak yapıyosun olayı bıttı

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\bin\Debug\YahooApi-KonumBul.exe.config
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\bin\Debug\YahooApi-KonumBul.exe
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\bin\Debug\YahooApi-KonumBul.pdb
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi-KonumBul.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi_KonumBul.Form1.resources
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi_KonumBul.Properties.Resources.resources
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi-KonumBul.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi-KonumBul.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi-KonumBul.exe
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi-KonumBul.pdb
+C:\Users\Asus\source\repos\YahooApi-KonumBul\YahooApi-KonumBul\obj\Debug\YahooApi_KonumBul.Form2.resources

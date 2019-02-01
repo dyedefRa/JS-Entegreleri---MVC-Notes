@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\bin\FirstApp.dll.config
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\bin\FirstApp.dll
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\bin\FirstApp.pdb
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\obj\Debug\FirstApp.dll
+C:\Users\Asus\source\repos\AngularJS-First\FirstApp\obj\Debug\FirstApp.pdb

@@ -1,0 +1,50 @@
+﻿@model List<Scroll_Paging_indikceSayfaninYuklenmesi.Models.Customers>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Müşteriler</h2>
+
+<div id="ajaxlaatak">
+    @Html.Partial("CustomerWidger", Model)
+
+
+</div>
+
+@section scripts{
+    <script>
+
+        $(function () {
+            var pageNo = 1;
+            var IsPagedLoad = true;
+            $(window).scroll(function () {
+
+                if ($(window).scrollTop() == $(document).height() - $(window).height()) {
+                    if (IsPagedLoad) {
+
+                        $.ajax({
+                            type: 'GET',
+                            url: '/Home/Index',
+                            data: { page: pageNo },
+                            success: function (value) {
+
+                                pageNo++;
+                                $("#ajaxlaatak").append(value);
+                                if ($.trim(value) == '') {
+                                    IsPagedLoad = false;
+                                }
+                              
+                            }
+
+
+                        });
+
+                    }
+                }
+                    
+                });
+
+            });
+    </script>
+
+}

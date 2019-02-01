@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "Merhaba";
+}
+
+<h2>Merhaba</h2>
+<link href="~/Content/swal.css" rel="stylesheet" />
+<a href="#" class="tikla">Tıkla</a>
+
+@section scripts{
+    <script src="~/Content/jquery-3.2.1.min.js"></script>
+
+    <script src="~/Content/yeni.js"></script>
+    <script>
+        $(function () {
+
+            // sweetAlert({
+            //    title: "Başılk",
+            //    text: "Bakk geliyor",
+            //    type: "success",
+            //    showCancelButton: true,
+            //    confirmButtonClass: "btn-danger",
+            //    confirmButtonText: "Onayla",
+            //    closeOnConfirm: false,
+            //}).then((value) => {
+            //    sweetAlert('Geridönüsün ${value}');
+            //    });
+            swal({
+                title: "Are you sure?",
+                text: "Once deleted, you will not be able to recover this imaginary file!",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+                .then((willDelete) => {
+                    if (willDelete) {
+                        $.ajax({
+                            type: 'POST',
+                            url: '@Url.Content("/Sweet/Deneme/")',
+                            data: { sonuc: "okey" },
+                            success: function (Gitti) {
+                                swal(`Gitti nesnesi gitti gelen nesne ${Gitti}`, {
+                                    icon: "success",
+                                });
+                            },
+                            error: function () {
+                                alert("SIKINTI BUYUK");
+
+                            }
+                        });
+                       
+                    } else {
+                        swal("Your imaginary file is safe!");
+                    }
+                });
+
+        });
+
+
+              
+
+    </script>
+
+}

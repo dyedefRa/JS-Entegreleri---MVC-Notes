@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\bin\Debug\Ileri-Duzey-TRY-CATCH.exe.config
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\bin\Debug\Ileri-Duzey-TRY-CATCH.exe
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\bin\Debug\Ileri-Duzey-TRY-CATCH.pdb
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri-Duzey-TRY-CATCH.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri_Duzey_TRY_CATCH.Form1.resources
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri_Duzey_TRY_CATCH.Properties.Resources.resources
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri-Duzey-TRY-CATCH.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri-Duzey-TRY-CATCH.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri-Duzey-TRY-CATCH.exe
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\obj\Debug\Ileri-Duzey-TRY-CATCH.pdb
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\bin\Debug\DataAccessLayer.dll
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\Ileri-Duzey-TRY-CATCH\bin\Debug\DataAccessLayer.pdb

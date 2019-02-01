@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Asus\source\repos\Ileri-Duzey-TRY-CATCH\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

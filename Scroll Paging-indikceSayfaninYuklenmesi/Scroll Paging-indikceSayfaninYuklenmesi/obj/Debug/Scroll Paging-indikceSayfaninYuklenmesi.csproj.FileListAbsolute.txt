@@ -1,0 +1,26 @@
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\Scroll Paging-indikceSayfaninYuklenmesi.dll.config
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\Scroll Paging-indikceSayfaninYuklenmesi.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\Scroll Paging-indikceSayfaninYuklenmesi.pdb
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\obj\Debug\Scroll Paging-indikceSayfaninYuklenmesi.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\obj\Debug\Scroll Paging-indikceSayfaninYuklenmesi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\obj\Debug\Scroll Paging-indikceSayfaninYuklenmesi.dll
+C:\Users\Asus\source\repos\Scroll Paging-indikceSayfaninYuklenmesi\Scroll Paging-indikceSayfaninYuklenmesi\obj\Debug\Scroll Paging-indikceSayfaninYuklenmesi.pdb

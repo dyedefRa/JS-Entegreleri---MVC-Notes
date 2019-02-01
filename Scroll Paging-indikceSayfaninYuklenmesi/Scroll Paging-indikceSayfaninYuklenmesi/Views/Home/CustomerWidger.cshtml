@@ -1,0 +1,15 @@
+﻿@model List<Scroll_Paging_indikceSayfaninYuklenmesi.Models.Customers>
+
+
+@foreach (var cust in Model)
+{
+
+    <div  class="form-group">
+        <ul class="list-group" >
+            <li class="list-group-item"> <b>Firma Adı : </b>@cust.CompanyName </li>
+            <li class="list-group-item"> <b>Ülke : </b>@cust.Country  </li>
+            <li class="list-group-item"> <b>Şehir : </b> @cust.City </li>
+        </ul>
+    </div>
+
+}

@@ -1,0 +1,16 @@
+   <form id="form1" runat="server">
+        <div>
+            
+            <pre style="font-weight:700; font-size:18px; width:500px; background-color:#e1e1e1; overflow:hidden; overflow-x:visible;">
+  &lt;<span style="color:#0094ff">body</span>>
+    &lt;<span style="color:#0094ff">form</span> id="form1" runat="server">
+                &lt;<span style="color:#0094ff">div</span>>
+        &lt;<span style="color:#0094ff">asp:Button</span> Text="Týkla" ID="button1" OnClick="button1_Click" />
+        &lt;<span style="color:#0094ff">asp:Label</span> Text="" ID="Label1" runat="server" />
+                &lt;/<span style="color:#0094ff">div</span>>
+    &lt;/<span style="color:#0094ff">form</span>>
+  &lt;/<span style="color:#0094ff">body</span>>
+            </pre>
+
+        </div>
+    </form>

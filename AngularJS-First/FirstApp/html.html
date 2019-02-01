@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Angular.js"></script>
+    <script>
+        function bikeController($scope) {
+            $scope.models = [
+                { name: 'Kawasaki', country: 'Japan', price: 500 },
+                { name: 'Honda', country: 'Japan', price: 700 },
+                { name: 'Bmw', country: 'German', price: 1250 },
+                { name: 'Suzuki', country: 'Japan', price: 1500 },
+                { name: 'Ducati', country: 'Italy', price: 2500 },
+                { name: 'Harley', country: 'Usa', price: 3500 }
+            ];
+        }
+    </script>
+</head>
+<body>
+    <!--<div ng-app ng-init="sayi=7">
+        <input type="text"  ng-model="sayi"  />
+        <br />
+        <span>{{ sayi*102 }} </span>
+    </div>-->
+    <!--<div ng-app="" ng-init="mer={ad:'BAHALE',soyad:'OFOF'}">
+        <p>
+            <span ng-bind="mer.ad"></span>
+        </p>
+
+    </div>-->
+
+    
+    <!--<br />
+    <div ng-app="" ng-controller="bikeController">
+        <p><input type="text" ng-model="name"></p>
+        <ul>
+            <li ng-repeat="x in models | filter:name | orderBy:'price'">
+                {{ (x.name | uppercase) + ', ' + (x.country | lowercase) }} [
+                {{ x.price | currency }} ]
+            </li>
+        </ul>
+    </div>-->
+
+</body>
+</html>

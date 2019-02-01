@@ -1,0 +1,48 @@
+﻿-OTOMATIK KELIME TAMAMLAYICISI
+-CSS VE JS DOSYALARI TAM BULAMADIM BU YUZDEN SORUNLU
+-autoComplete asıl olay burada
+
+1- HOME CONTROLLER
+
+  public JsonResult Searching(string temp)
+        {
+            NorthwindEntities ctx = new NorthwindEntities();
+            var data = ctx.Categories.Where(x => x.CategoryName.StartsWith(temp));
+            if (data==null)
+            {
+                return Json(null, JsonRequestBehavior.AllowGet);
+            }
+            var gonder = from i in data
+                         select new
+                         {
+                             id = i.CategoryID,
+                             value = i.CategoryName
+                         };
+            return Json(gonder, JsonRequestBehavior.AllowGet);
+        }
+
+2-index.cshtml
+
+
+<h2>Index</h2>
+
+<br />
+<span> Arama</span>
+<br />
+<input type="text" id="search" placeholder="Ara" name="name" value="" />
+
+
+@section scripts{
+    <script>
+        $(function () {
+            $("#search").autoComplete({
+                source: "/Home/Searching",
+                minLenght: 1,
+                select: function (event, ui) {
+                    alert(ui.item.value);
+                }
+            });
+        });
+    </script>
+}
+

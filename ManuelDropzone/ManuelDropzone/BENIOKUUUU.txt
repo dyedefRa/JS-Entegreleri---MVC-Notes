@@ -1,0 +1,4 @@
+﻿1-jQuery dropfile entegre et (NuGeT)
+2-Index cshtml de herşey var 
+3- <httpRuntime targetFramework="4.5" maxRequestLength="5120"/> EKLE
+4-ACTIONLARI UNUTMA files ve UploadFiles parametreleri önemli

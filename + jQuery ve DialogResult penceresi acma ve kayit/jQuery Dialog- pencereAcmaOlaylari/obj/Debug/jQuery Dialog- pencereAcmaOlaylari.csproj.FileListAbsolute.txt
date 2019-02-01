@@ -1,0 +1,80 @@
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.dll.config
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.pdb
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.dll
+C:\Users\Asus\source\repos\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.dll.config
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csproj.CopyComplete
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\jQuery Dialog- pencereAcmaOlaylari\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.dll.config
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\jQuery Dialog- pencereAcmaOlaylari.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.csproj.CopyComplete
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\+ jQuery ve DialogResult penceresi acma ve kayit\jQuery Dialog- pencereAcmaOlaylari\obj\Debug\jQuery Dialog- pencereAcmaOlaylari.pdb

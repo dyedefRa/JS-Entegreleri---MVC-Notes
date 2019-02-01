@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("SehirIlceSec", "Home", FormMethod.Post))
+{
+
+    <div class="form-group">
+        @Html.Label("Şehir seç :", new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("SehirID", null, htmlAttributes: new { @class = "form-control",@id="drp_First" })
+
+        </div>
+    </div>
+    <hr />
+    <div class="form-group" id="ikinciDropYeri">
+
+    </div>
+
+
+  
+        <input class="btn btn-info" type="submit" name="name" value="Onayla" />
+
+
+
+}
+
+@section scripts{
+    <script>
+        $(function () {
+          
+            $("#drp_First").change(function () {
+
+                var sehirID = $(this).val();
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/Home/ikinciDropWidget',
+                    data: { id: sehirID },
+                    success: function (value) {
+                        $("#ikinciDropYeri").html(value);
+                     
+                    },
+                    error: function (data) {
+                      
+                    }
+
+                });
+            });
+
+        });
+    </script>
+    
+    
+    }

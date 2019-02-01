@@ -1,0 +1,68 @@
+﻿@model List<jQuery_Dialog__pencereAcmaOlaylari.Models.Kullanici>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<br />
+<a class="btn btn-info" id="yeniEkle" href="#">Yeni kullanıcı Ekle</a>
+<br />
+<hr />
+<div class="form-group">
+    @foreach (var item in Model)
+    {
+        <ul class="list-group">
+            <li class="list-group-item">@item.Ad  @item.Soyad</li>
+
+            <li class="list-group-item"> <input class="btn btn-success" type="button" name="name" value="Sil" /></li>
+        </ul>
+    }
+</div>
+
+
+
+
+
+<div id="dialogUser" title="Kullanıcı İşlemleri">
+    @{
+        Html.RenderPartial("ListWidget");
+    }
+</div>
+ @*$.ajax({
+                    type: 'GET',
+                    url: "/Home/KullaniciEkle",
+                    success: function (value) {
+                        alert(value);
+                        window.location.url = "/Home/Index";
+                    }
+                });*@
+
+
+
+@section scripts{
+    <script>
+        $(function () {
+      
+
+            $("#yeniEkle").click(function () {
+                $("#dialogUser").dialog("open");
+
+
+            });
+            $("#dialogUser").dialog({
+                width: 300,
+                height: 400,
+                autoOpen: false,
+
+            });
+
+            function create(value) {
+                alert(value);
+            }
+
+        });
+
+    </script>
+
+
+}

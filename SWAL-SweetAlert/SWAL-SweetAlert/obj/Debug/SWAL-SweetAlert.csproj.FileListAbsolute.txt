@@ -1,0 +1,45 @@
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\SWAL-SweetAlert.dll.config
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\SWAL-SweetAlert.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\SWAL-SweetAlert.pdb
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.dll
+C:\Users\Asus\source\repos\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\SWAL-SweetAlert.dll.config
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\SWAL-SweetAlert.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\SWAL-SweetAlert.pdb
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Helpers.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Mvc.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Helpers.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\bin\System.Web.Mvc.xml
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.csproj.CopyComplete
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.dll
+C:\Users\Asus\source\repos\A.EXTREME WIDGET\SWAL-SweetAlert\SWAL-SweetAlert\obj\Debug\SWAL-SweetAlert.pdb

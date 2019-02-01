@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\Blog.DataEntities.dll.config
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\Blog.DataEntities.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\Blog.DataEntities.pdb
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\obj\Debug\Blog.DataEntities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\obj\Debug\Blog.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\obj\Debug\Blog.DataEntities.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataEntities\obj\Debug\Blog.DataEntities.pdb

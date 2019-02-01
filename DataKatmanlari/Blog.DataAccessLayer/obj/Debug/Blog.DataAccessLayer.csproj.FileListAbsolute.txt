@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.dll.config
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\Blog.DataAccessLayer.pdb
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\Blog.DataEntities.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\Blog.DataEntities.pdb
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\Blog.DataEntities.dll.config
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.dll
+C:\Users\Asus\source\repos\DataKatmanlari\Blog.DataAccessLayer\obj\Debug\Blog.DataAccessLayer.pdb
